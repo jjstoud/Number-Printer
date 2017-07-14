@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPrinter", "NumberPrinter\NumberPrinter.csproj", "{E4D90C08-1D42-4EE9-9DF8-1D9DBFF4FCAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberService", "NumberService\NumberService.csproj", "{428A6786-9857-4D5F-8EF2-3EB3A10901F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTests", "Tests\NumberTests.csproj", "{E64F0683-B7EA-4FF5-A6CB-42EA7BF387BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D90C08-1D42-4EE9-9DF8-1D9DBFF4FCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D90C08-1D42-4EE9-9DF8-1D9DBFF4FCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D90C08-1D42-4EE9-9DF8-1D9DBFF4FCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D90C08-1D42-4EE9-9DF8-1D9DBFF4FCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{428A6786-9857-4D5F-8EF2-3EB3A10901F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428A6786-9857-4D5F-8EF2-3EB3A10901F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428A6786-9857-4D5F-8EF2-3EB3A10901F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428A6786-9857-4D5F-8EF2-3EB3A10901F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E64F0683-B7EA-4FF5-A6CB-42EA7BF387BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64F0683-B7EA-4FF5-A6CB-42EA7BF387BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64F0683-B7EA-4FF5-A6CB-42EA7BF387BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64F0683-B7EA-4FF5-A6CB-42EA7BF387BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
